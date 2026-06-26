@@ -1,0 +1,6 @@
+.env
+bot.log
+.venv/
+.idea/
+__pycache__/
+*.docx
